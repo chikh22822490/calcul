@@ -15,4 +15,5 @@ urlpatterns = [
     path('sqrt2', SoapService.sqrt2, name='sqrt2'),
     path('sqrt3', SoapService.sqrt3, name='sqrt3'),
     path('sqrty', SoapService.sqrty, name='sqrty'),
+    path('fact', SoapService.fact, name='fact'),
 ]
