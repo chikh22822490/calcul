@@ -1,0 +1,7 @@
+asgiref==3.4.1
+Django==3.2.8
+lxml==4.6.3
+pytz==2021.3
+spyne==2.13.16
+sqlparse==0.4.2
+suds-py3==1.4.4.1
