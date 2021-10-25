@@ -1,0 +1,18 @@
+body {
+	background-color: #e3f2fd;
+  	display: flex;
+  	flex-direction: column;
+  	min-height: 100vh;
+}
+
+footer {
+  	flex: 0 0 220px;/*or just height:50px;*/
+  	margin-top: auto;
+  	text-align: center;
+}
+
+.calculRow{
+	display: block ;
+	text-align: center;
+	margin: 10px auto 0 auto;
+}
